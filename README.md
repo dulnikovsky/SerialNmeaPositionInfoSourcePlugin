@@ -1,0 +1,1 @@
+This Qt plugin extends the QNmeaPositionInfoSource class from Qt's positioning module. It adds support for missing NMEA sentences as well as automatic serial port selection.
