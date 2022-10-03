@@ -1,0 +1,10 @@
+
+{
+    "Keys": ["serialnmea"],
+    "Provider": "serialnmea",
+    "Position": true,
+    "Satellite": false,
+    "Monitor": false,
+    "Priority": 999,
+    "Testable": false
+}
